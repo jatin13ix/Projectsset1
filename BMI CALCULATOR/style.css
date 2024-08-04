@@ -1,0 +1,33 @@
+.container{
+    background-color: grey;
+    width: 580px;
+    height: 850px;
+    padding-left: 30px;
+}
+nav{
+    margin-left: 40%;
+}
+a{
+    border: solid black 1px;
+    padding: 5px;
+}
+#height,#weight{
+    height: 20px;
+    width: 120px;
+}
+button{
+    width: 175px;
+    height: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+    padding: 1px 30px;
+    color: darkslateblue;
+
+}
+
+    #results {
+        font-size: 35px;
+        margin-left: 20px;
+        margin-top: 20px;
+        color: rgb(241, 241, 241);
+    }
